@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ehsan Shareghi Homepage"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Ehsan Shareghi"
 description              : &description "PhD Student at Monash University"
