@@ -6,5 +6,4 @@ venue: " Twenty-sixth International Joint Conference on Artificial Intelligence 
 excerpt: 'Compressed Modelling and Scalable Inference for Hierarchical Pitman-Yor Process Language Models'
 date: 2017-08-01
 paperurl: https://www.ijcai.org/proceedings/2017/0376.pdf
-citation: ''
 ---
