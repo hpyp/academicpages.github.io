@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc. in Computer Science, Shahid Beheshti University, Tehran, Iran, 2009
-     * Thesis: Text Summarization with Harmony Search Algorithm-Based Sentence Extraction
+     * Thesis: Text Summarization with Harmony Search
      * Advisor: Leila Sharif
 * M.Sc. in Computer Science, Concordia University, Montreal, Canada, 2013
      * Thesis: Feature Combination for Measuring Sentence Similarity
