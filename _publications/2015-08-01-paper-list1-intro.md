@@ -7,6 +7,8 @@ excerpt: 'Efficient methods for storing and querying language models are critica
 date: 2015-08-01
 paperurl: http://www.aclweb.org/anthology/D15-1288
 ---
+
+
 ---
 title: "Compact, Efficient and Unlimited Capacity: Language Modeling with Compressed Suffix Trees"
 collection: publications
