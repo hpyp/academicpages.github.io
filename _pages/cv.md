@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: ""
-permalink: /cv/
+title: "About Me"
+permalink: /AboutMe/
 author_profile: true
 redirect_from:
   - /resume
@@ -33,15 +33,3 @@ Skills
 * Programming skills: Java, C++ (and some python, R, shell)
 * Natural Language Processing: GATE, Stanford NLP, NLTK 
 * Languages : Persian (Native), English (Fluent)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
