@@ -7,13 +7,3 @@ venue: "Australasian Language Technology Association (ALTA)"
 date: 2016-12-01
 location: "Melbourne, Australia"
 ---
-
----
-title: "Scalable & Unbounded Smoothing for NLP"
-collection: talks
-type: "Talk"
-permalink: /talks/2016-03-01-intro-testing
-venue: "IBM Research Australia"
-date: 2016-09-01
-location: "Melbourne, Australia"
----
