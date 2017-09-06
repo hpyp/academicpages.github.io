@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Sc. in Computer Science, Shahid Beheshti University, Iran, 2009
+* M.Sc. in Computer Science, Concordia University, Canada, 2013
+* Ph.D in Computer Science, Monash University, Australia, 2017 (expected)
 
-Work experience
+Internship
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2016 - December 2016 (Part Time): Research Intern
+  * IBM research Australia
+  * Tweet Clustering via Embeddings
+  * Supervisor: Chris Butler
+  
+* September 2015 - December 2015 (Full Time): Research Intern
+  * IBM research Australia
+  * Improving IBM Watson Explorer
+  * Supervisor: Chris Butler
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming skills: Java, C++ (and some python, R, shell)
+* Natural Language Processing: GATE, Stanford NLP, NLTK 
+* Languages : Persian (Native), English (Fluent)
 
 Publications
 ======
@@ -47,13 +45,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
