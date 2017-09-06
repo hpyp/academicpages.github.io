@@ -8,16 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-* [August 2017]: 
-  * Presented paper "Compressed Nonparametric Language Modelling" at IJCAI2017
-* [July 2017]: 
-  * Submitted PhD thesis for examination
-* [April 2017]: 
-  * Yeay! "Compressed Nonparametric Language Modelling" got accepted in IJCAI2017
-* [December 2016]: 
-  * Nice Industry Experience! Finished internship at IBM.
-* [November 2016]: 
-  * Presented TACL paper "Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees" at EMNLP2016
+* [August 2017]: Presented paper "Compressed Nonparametric Language Modelling" at IJCAI2017
+* [July 2017]: Submitted PhD thesis for examination
+* [April 2017]: Yeay! "Compressed Nonparametric Language Modelling" got accepted in IJCAI2017
+* [December 2016]: Nice Industry Experience! Finished internship at IBM.
+* [November 2016]: Presented TACL paper "Infinite-order Language Modelling with Compressed Suffix Trees" at EMNLP2016
 
 Research Interest
 ======
