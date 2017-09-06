@@ -1,17 +1,19 @@
 ---
-title: "An Introduction to Testing"
+title: "Scalable & Unbounded Smoothing for Language Modeling"
 collection: talks
 type: "Talk"
 permalink: /talks/2016-03-01-intro-testing
-venue: "Test University, Department of Testing Science"
-date: 2016-03-01
-location: "San Francisco, California"
+venue: "Australasian Language Technology Association (ALTA)"
+date: 2016-12-01
+location: "Melbourne, Australia"
 ---
 
-This talk is an introduction to Testing.
-
-Headings
-======
-
-Subheadings
-------
+---
+title: "Scalable & Unbounded Smoothing for NLP"
+collection: talks
+type: "Talk"
+permalink: /talks/2016-03-01-intro-testing
+venue: "IBM Research Australia"
+date: 2016-09-01
+location: "Melbourne, Australia"
+---
